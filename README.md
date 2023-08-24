@@ -13,7 +13,9 @@ Categories and Filters: Organize your menu items into categories (e.g., appetize
 Table Management: Easily create and manage tables for your restaurant.
 ##
 Menu Management: Upload and update your restaurant's menu, including prices and descriptions.
+##
 
+Screenshots:
 
 <img width="221" alt="Screenshot 2023-08-24 115414" src="https://github.com/rakshabs/Waitermate-App/assets/106856727/e66b38aa-af37-46cd-9ea8-046cab9bb913">
 <img width="221" alt="Screenshot 2023-07-04 145542" src="https://github.com/rakshabs/Waitermate-App/assets/106856727/38749f0e-e7dd-4aa3-998b-0b214aadcba6">
